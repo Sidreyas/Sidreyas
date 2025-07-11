@@ -17,6 +17,13 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
 
 ## 💼 Technical Skills
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Sidreyas?label=Followers&style=flat&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Sidreyas?label=Stars&style=flat&color=yellow" alt="GitHub stars" />
+  <br><br>
+</div>
+
 ### 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -100,86 +107,15 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
 ## 🎯 AI Specializations
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150px">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-computer-science-flaticons-lineal-color-flat-icons-2.png" width="48" height="48"/>
-        <br><strong>Machine Learning</strong>
-      </td>
-      <td align="center" width="150px">
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-deep-learning-computer-science-flaticons-flat-flat-icons.png" width="48" height="48"/>
-        <br><strong>Deep Learning</strong>
-      </td>
-      <td align="center" width="150px">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-computer-vision-computer-science-flaticons-lineal-color-flat-icons.png" width="48" height="48"/>
-        <br><strong>Computer Vision</strong>
-      </td>
-      <td align="center" width="150px">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-natural-language-processing-computer-science-flaticons-lineal-color-flat-icons.png" width="48" height="48"/>
-        <br><strong>NLP</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150px">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-generative-ai-prompt-engineering-flaticons-lineal-color-flat-icons.png" width="48" height="48"/>
-        <br><strong>Generative AI</strong>
-      </td>
-      <td align="center" width="150px">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-large-language-model-prompt-engineering-flaticons-lineal-color-flat-icons.png" width="48" height="48"/>
-        <br><strong>LLMs</strong>
-      </td>
-      <td align="center" width="150px">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-ai-agent-prompt-engineering-flaticons-lineal-color-flat-icons.png" width="48" height="48"/>
-        <br><strong>Agentic AI</strong>
-      </td>
-      <td align="center" width="150px">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-mlops-computer-science-flaticons-lineal-color-flat-icons.png" width="48" height="48"/>
-        <br><strong>MLOps</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 💼 Professional Experience
-
-### 🏢 AI Engineer @ iQube (2023 - Present)
-- **Team Leadership**: Led and managed a 20-member AI team, ensuring development of high-quality AI systems with >92% accuracy
-- **System Development**: Designed, developed, and deployed end-to-end AI/ML applications, enhancing efficiency and robustness by 40%
-- **Strategic Planning**: Actively participated in project meetings and public sessions, providing valuable insights for AI system improvements
-
-## 🌟 Key Projects
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
-    <div style="background: linear-gradient(135deg, #153B50, #1E5372); color: white; padding: 15px; border-radius: 16px; width: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <h3>🔍 Welvision</h3>
-      <span style="background-color: #4CAF50; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">Complete</span>
-      <p><b>Tech:</b> OpenCV, TensorFlow, MongoDB</p>
-      <p><b>Impact:</b> 30x efficiency boost</p>
-      <p><b>Updated:</b> July 2025</p>
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #2C3E50, #4CA1AF); color: white; padding: 15px; border-radius: 16px; width: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <h3>🕵️ Deep Tracers</h3>
-      <span style="background-color: #4CAF50; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">Complete</span>
-      <p><b>Tech:</b> Transformers, Flask, PostgreSQL</p>
-      <p><b>Impact:</b> 85% detection accuracy</p>
-      <p><b>Updated:</b> July 2025</p>
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #373B44, #4286f4); color: white; padding: 15px; border-radius: 16px; width: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <h3>🤖 Yugam AI</h3>
-      <span style="background-color: #4CAF50; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">Complete</span>
-      <p><b>Tech:</b> FAISS, Langchain, LLMs</p>
-      <p><b>Impact:</b> 10K+ users</p>
-      <p><b>Updated:</b> July 2025</p>
-    </div>
-  </div>
-
-  <div style="margin-top: 15px;">
-    <a href="https://github.com/Sidreyas/DeepTracers" style="text-decoration: none; padding: 8px 15px; background-color: #2C3E50; color: white; border-radius: 8px; margin: 0 10px;">Deep Tracers Repository</a>
-    <a href="https://github.com/Sidreyas/Yugam_Chat" style="text-decoration: none; padding: 8px 15px; background-color: #373B44; color: white; border-radius: 8px; margin: 0 10px;">Yugam AI Repository</a>
-  </div>
+  <img src="https://img.shields.io/badge/🧠_Machine_Learning-FF6B6B?style=for-the-badge&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/🔥_Deep_Learning-4ECDC4?style=for-the-badge&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/👁️_Computer_Vision-45B7D1?style=for-the-badge&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/💬_NLP-FFA07A?style=for-the-badge&logoColor=white" alt="NLP" />
+  <br><br>
+  <img src="https://img.shields.io/badge/✨_Generative_AI-9B59B6?style=for-the-badge&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/🤖_LLMs-2ECC71?style=for-the-badge&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/🎯_Agentic_AI-E67E22?style=for-the-badge&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/⚙️_MLOps-34495E?style=for-the-badge&logoColor=white" alt="MLOps" />
 </div>
 
 ## 🏆 Achievements & Certifications
@@ -200,33 +136,14 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
 - 📊 **Data Analysis with R Programming**
 - 🎓 **AWS Academy Machine Learning Foundations**
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidreyas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=320" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidreyas&layout=compact&theme=tokyonight&hide_border=true&card_width=320" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidreyas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sidreyas&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidreyas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidreyas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-## 🎓 Education
-
-**Bachelor of Engineering - Information Science and Engineering**  
-📍 Kumaraguru College of Technology (2021-2025)  
-🎯 CGPA: 7.95/10
-
 ## 🌐 Let's Connect!
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Sidreyas?label=Followers&style=flat&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Sidreyas?label=Stars&style=flat&color=yellow" alt="GitHub stars" />
+  <br><br>
+</div>
 
 <div align="center">
   
