@@ -25,97 +25,97 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
 </div>
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Python&color=3776AB&style=flat" alt="Python" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=JavaScript&color=F7DF1E&style=flat" alt="JavaScript" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=C&color=00599C&style=flat" alt="C" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=SQL&color=4479A1&style=flat" alt="SQL" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=R&color=276DC3&style=flat" alt="R" />
+</div>
 
 ### 🤖 Machine Learning & AI
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=TensorFlow&color=FF6F00&style=flat" alt="TensorFlow" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=PyTorch&color=EE4C2C&style=flat" alt="PyTorch" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=scikit-learn&color=F7931E&style=flat" alt="scikit-learn" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=OpenCV&color=27338e&style=flat" alt="OpenCV" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Keras&color=D00000&style=flat" alt="Keras" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=NumPy&color=013243&style=flat" alt="NumPy" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Pandas&color=150458&style=flat" alt="Pandas" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Matplotlib&color=11557c&style=flat" alt="Matplotlib" />
+</div>
 
 ### 🗣️ Natural Language Processing
-<p align="center">
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="Langchain" />
-  <img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Hugging%20Face&color=FFD21E&style=flat" alt="Hugging Face" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=LangChain&color=1C3C3C&style=flat" alt="LangChain" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=FAISS&color=4285F4&style=flat" alt="FAISS" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=NLTK&color=3776AB&style=flat" alt="NLTK" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=spaCy&color=09A3D5&style=flat" alt="spaCy" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=OpenAI&color=412991&style=flat" alt="OpenAI" />
+</div>
 
 ### 🌐 Web Frameworks & APIs
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Flask&color=000000&style=flat" alt="Flask" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=FastAPI&color=009688&style=flat" alt="FastAPI" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Streamlit&color=FF4B4B&style=flat" alt="Streamlit" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Django&color=092E20&style=flat" alt="Django" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=REST%20API&color=FF6C37&style=flat" alt="REST API" />
+</div>
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=MongoDB&color=4EA94B&style=flat" alt="MongoDB" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=PostgreSQL&color=316192&style=flat" alt="PostgreSQL" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=MySQL&color=4479A1&style=flat" alt="MySQL" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Redis&color=DC382D&style=flat" alt="Redis" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=SQLite&color=003B57&style=flat" alt="SQLite" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Pinecone&color=000000&style=flat" alt="Pinecone" />
+</div>
 
 ### ⚙️ MLOps & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubeflow" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=MLflow&color=0194E2&style=flat" alt="MLflow" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Kubeflow&color=326CE5&style=flat" alt="Kubeflow" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=DVC&color=945DD6&style=flat" alt="DVC" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Docker&color=2496ED&style=flat" alt="Docker" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Git&color=F05032&style=flat" alt="Git" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=GitHub%20Actions&color=2088FF&style=flat" alt="GitHub Actions" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Jupyter&color=F37626&style=flat" alt="Jupyter" />
+</div>
 
 ### ☁️ Cloud Services
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=AWS&color=FF9900&style=flat" alt="AWS" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Azure&color=0078D4&style=flat" alt="Azure" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Google%20Cloud&color=4285F4&style=flat" alt="Google Cloud" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Heroku&color=430098&style=flat" alt="Heroku" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Vercel&color=000000&style=flat" alt="Vercel" />
+</div>
 
 ### 🛠️ Development Tools & IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=VS%20Code&color=007ACC&style=flat" alt="VS Code" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=PyCharm&color=000000&style=flat" alt="PyCharm" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Google%20Colab&color=F9AB00&style=flat" alt="Google Colab" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Postman&color=FF6C37&style=flat" alt="Postman" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Linux&color=FCC624&style=flat" alt="Linux" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Ubuntu&color=E95420&style=flat" alt="Ubuntu" />
+</div>
 
 ## 🎯 AI Specializations
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🧠_Machine_Learning-FF6B6B?style=for-the-badge&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/🔥_Deep_Learning-4ECDC4?style=for-the-badge&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/👁️_Computer_Vision-45B7D1?style=for-the-badge&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/💬_NLP-FFA07A?style=for-the-badge&logoColor=white" alt="NLP" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Machine%20Learning&color=FF6B6B&style=flat" alt="Machine Learning" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Deep%20Learning&color=4ECDC4&style=flat" alt="Deep Learning" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Computer%20Vision&color=45B7D1&style=flat" alt="Computer Vision" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=NLP&color=FFA07A&style=flat" alt="NLP" />
   <br><br>
-  <img src="https://img.shields.io/badge/✨_Generative_AI-9B59B6?style=for-the-badge&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/🤖_LLMs-2ECC71?style=for-the-badge&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/🎯_Agentic_AI-E67E22?style=for-the-badge&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/⚙️_MLOps-34495E?style=for-the-badge&logoColor=white" alt="MLOps" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Generative%20AI&color=9B59B6&style=flat" alt="Generative AI" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=LLMs&color=2ECC71&style=flat" alt="LLMs" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Agentic%20AI&color=E67E22&style=flat" alt="Agentic AI" />
+  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=MLOps&color=34495E&style=flat" alt="MLOps" />
 </div>
 
 ## 🏆 Achievements & Certifications
