@@ -1,5 +1,7 @@
 # Hi there, I'm Sudharsan Kumar! 👋
 
+**Building @Super-agents | Engineering AI | Agentic AI | AWS ML Solution Architect**
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vAlign=center&width=435&lines=AI+Engineer+%40+iQube;Machine+Learning+Engineer;Deep+Learning+Specialist;Computer+Vision+Expert;NLP+%26+LLM+Developer" alt="Typing SVG" />
 </div>
@@ -9,13 +11,6 @@
 I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, Deploy and Integration. Currently working at **iQube**, where I lead a 20-member AI team and focus on building cutting-edge AI/ML applications with 92%+ accuracy.
 
 ## Technical Skills
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Sidreyas?label=Followers&style=flat&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Sidreyas?label=Stars&style=flat&color=yellow" alt="GitHub stars" />
-  <br><br>
-</div>
 
 ### Programming Languages
 <div align="center">
@@ -154,22 +149,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vAlign=center&width=600&lines=Let's+collaborate+on+exciting+AI+projects!;Always+learning+and+building+innovative+solutions;Open+to+discussing+AI%2C+ML%2C+and+emerging+technologies" alt="Connect Typing SVG" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Sidreyas?label=Followers&style=flat&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Sidreyas?label=Stars&style=flat&color=yellow" alt="GitHub stars" />
-  <br><br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vAlign=center&width=500&lines=Thanks+for+visiting+my+profile!;Happy+coding!+%F0%9F%9A%80" alt="Footer Typing SVG" />
-  
-  <br><br>
-  <b>Last Updated:</b> 2025-07-11
-  <br>
+<br>
   <b>"Building the future with AI, one algorithm at a time"</b> 🚀
-  <br><br>
-  
-  <img src="https://github.com/Sidreyas/Sidreyas/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-</div>
+  <br
+---
