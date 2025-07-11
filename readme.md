@@ -8,7 +8,9 @@
 
 ## About Me
 
-I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, Deploy and Integration. Currently working at **iQube**, where I lead a 20-member AI team and focus on building cutting-edge AI/ML applications with 92%+ accuracy.
+I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, Deploy and Integration. Ready to bring your ideas to life? Let's collaborate! Whether you're
+a startup, an established company, or an individual with a vision, I'm here to help. From concept to execution, let's create something
+amazing together.
 
 ## Technical Skills
 
