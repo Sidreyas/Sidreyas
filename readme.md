@@ -4,18 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vAlign=center&width=435&lines=AI+Engineer+%40+iQube;Machine+Learning+Engineer;Deep+Learning+Specialist;Computer+Vision+Expert;NLP+%26+LLM+Developer" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, Deploy and Integration. Currently working at **iQube**, where I lead a 20-member AI team and focus on building cutting-edge AI/ML applications with 92%+ accuracy.
 
-- 🔭 Currently working on **Welvision** - AI-powered quality assurance system
-- 🌱 Exploring **Agentic AI** and **Advanced Computer Vision**
-- 👯 Looking to collaborate on **AI/ML projects** and **Open Source**
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, NLP**
-- 📫 How to reach me: **sudharsankumar2594@gmail.com**
-- ⚡ Fun fact: I'm a **Smart India Hackathon Winner** and **Robocon AIR 17** achiever!
-
-## 💼 Technical Skills
+## Technical Skills
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -24,7 +17,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
   <br><br>
 </div>
 
-### 💻 Programming Languages
+### Programming Languages
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Python&color=3776AB&style=flat" alt="Python" />
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=JavaScript&color=F7DF1E&style=flat" alt="JavaScript" />
@@ -33,7 +26,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=R&color=276DC3&style=flat" alt="R" />
 </div>
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=TensorFlow&color=FF6F00&style=flat" alt="TensorFlow" />
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=PyTorch&color=EE4C2C&style=flat" alt="PyTorch" />
@@ -45,7 +38,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Matplotlib&color=11557c&style=flat" alt="Matplotlib" />
 </div>
 
-### 🗣️ Natural Language Processing
+### Natural Language Processing
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Hugging%20Face&color=FFD21E&style=flat" alt="Hugging Face" />
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=LangChain&color=1C3C3C&style=flat" alt="LangChain" />
@@ -55,7 +48,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=OpenAI&color=412991&style=flat" alt="OpenAI" />
 </div>
 
-### 🌐 Web Frameworks & APIs
+### Web Frameworks & APIs
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Flask&color=000000&style=flat" alt="Flask" />
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=FastAPI&color=009688&style=flat" alt="FastAPI" />
@@ -64,7 +57,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=REST%20API&color=FF6C37&style=flat" alt="REST API" />
 </div>
 
-### 🗄️ Databases
+### Databases
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=MongoDB&color=4EA94B&style=flat" alt="MongoDB" />
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=PostgreSQL&color=316192&style=flat" alt="PostgreSQL" />
@@ -74,7 +67,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Pinecone&color=000000&style=flat" alt="Pinecone" />
 </div>
 
-### ⚙️ MLOps & DevOps
+### MLOps & DevOps
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=MLflow&color=0194E2&style=flat" alt="MLflow" />
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Kubeflow&color=326CE5&style=flat" alt="Kubeflow" />
@@ -85,7 +78,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Jupyter&color=F37626&style=flat" alt="Jupyter" />
 </div>
 
-### ☁️ Cloud Services
+### Cloud Services
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=AWS&color=FF9900&style=flat" alt="AWS" />
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Azure&color=0078D4&style=flat" alt="Azure" />
@@ -94,7 +87,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Vercel&color=000000&style=flat" alt="Vercel" />
 </div>
 
-### 🛠️ Development Tools & IDEs
+### Development Tools & IDEs
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=VS%20Code&color=007ACC&style=flat" alt="VS Code" />
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=PyCharm&color=000000&style=flat" alt="PyCharm" />
@@ -104,7 +97,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Ubuntu&color=E95420&style=flat" alt="Ubuntu" />
 </div>
 
-## 🎯 AI Specializations
+## AI Specializations
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Machine%20Learning&color=FF6B6B&style=flat" alt="Machine Learning" />
@@ -136,7 +129,7 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
 - 📊 **Data Analysis with R Programming**
 - 🎓 **AWS Academy Machine Learning Foundations**
 
-## 🌐 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -147,13 +140,13 @@ I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, De
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharsan-kumar-s-5b983326a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sidreyas)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharsankumar2594@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
+<img src="https://komarev.com/ghpvc/?username=Sidreyas&label=LinkedIn&color=0077B5&style=flat" alt="LinkedIn" />
+<img src="https://komarev.com/ghpvc/?username=Sidreyas&label=GitHub&color=100000&style=flat" alt="GitHub" />
+<img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Gmail&color=D14836&style=flat" alt="Gmail" />
+<img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Portfolio&color=FF5722&style=flat" alt="Portfolio" />
+<img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Twitter&color=1DA1F2&style=flat" alt="Twitter" />
+<img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Medium&color=12100E&style=flat" alt="Medium" />
+<img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Discord&color=7289DA&style=flat" alt="Discord" />
 
 </div>
 
