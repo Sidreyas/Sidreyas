@@ -3,7 +3,7 @@
 **Building @Super-agents | Engineering AI | Agentic AI | AWS ML Solution Architect**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vAlign=center&width=435&lines=AI+Engineer+%40+iQube;Machine+Learning+Engineer;Deep+Learning+Specialist;Computer+Vision+Expert;NLP+%26+LLM+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vAlign=center&width=435&lines=AI+Engineering;Agentic+AI;Large+Language+Models;Computer+Vision;Deep+Learning;AWS+ML+Solution+Architect" alt="Typing SVG" />
 </div>
 
 ## About Me
