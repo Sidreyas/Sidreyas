@@ -1,4 +1,4 @@
-# Hi there, I'm Sudharsan Kumar! 👋
+# Hi there, I'm Sudharsan ! 👋
 
 **Building @Super-agents | Engineering AI | Agentic AI | AWS ML Solution Architect**
 
@@ -14,14 +14,7 @@ amazing together.
 
 ## Technical Skills
 
-### Programming Languages
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Python&color=3776AB&style=flat" alt="Python" />
-  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=JavaScript&color=F7DF1E&style=flat" alt="JavaScript" />
-  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=C&color=00599C&style=flat" alt="C" />
-  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=SQL&color=4479A1&style=flat" alt="SQL" />
-  <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=R&color=276DC3&style=flat" alt="R" />
-</div>
+### Programming Languages <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Python&color=3776AB&style=flat" alt="Python" /> <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=JavaScript&color=F7DF1E&style=flat" alt="JavaScript" /> <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=C&color=00599C&style=flat" alt="C" /> <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=SQL&color=4479A1&style=flat" alt="SQL" /> <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=R&color=276DC3&style=flat" alt="R" />
 
 ### Machine Learning & AI
 <div align="center">
