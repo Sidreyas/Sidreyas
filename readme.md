@@ -73,7 +73,7 @@ amazing together.
 
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=Sidreyas&label=LinkedIn&color=0077B5&style=flat" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/sudharsan-kumar-s-5b983326a/" target="_blank"><img src="https://komarev.com/ghpvc/?username=Sidreyas&label=LinkedIn&color=0077B5&style=flat" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=GitHub&color=100000&style=flat" alt="GitHub" />
 <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Gmail&color=D14836&style=flat" alt="Gmail" />
 <img src="https://komarev.com/ghpvc/?username=Sidreyas&label=Portfolio&color=FF5722&style=flat" alt="Portfolio" />
