@@ -1,6 +1,6 @@
 # Hi there, I'm Sudharsan ! 👋
 
-**Building @Super-agents | Engineering AI | Agentic AI | AWS ML Solution Architect**
+**Building Super-agents | Engineering AI | Agentic AI | AWS ML Solution Architect**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vAlign=center&width=435&lines=AI+Engineering;Agentic+AI;Large+Language+Models;Computer+Vision;Deep+Learning;AWS+ML+Solution+Architect" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm an **AI Engineer** with 2+ years of experience in AI Design, Development, Deploy and Integration. Ready to bring your ideas to life? Let's collaborate! Whether you're
+I'm an **AI Engineer** with 3+ years of experience in AI Design, Development, Deploy and Integration. Ready to bring your ideas to life? Let's collaborate! Whether you're
 a startup, an established company, or an individual with a vision, I'm here to help. From concept to execution, let's create something
 amazing together.
 
